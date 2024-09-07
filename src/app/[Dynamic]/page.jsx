@@ -14,7 +14,7 @@ const App = () => {
         setDB(data)
     }
 
-    getDB()
+    getDB()  
 }, [])
     return (
         <div className="min-h-screen flex flex-col">
